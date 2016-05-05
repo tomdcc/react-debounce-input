@@ -42,7 +42,7 @@
   },
   "homepage": "https://github.com/nkbt/react-debounce-input",
   "peerDependencies": {
-    "react": "^0.14"
+    "react": "^15.0"
   },
   "dependencies": {
     "lodash.debounce": "^3.1.1"
